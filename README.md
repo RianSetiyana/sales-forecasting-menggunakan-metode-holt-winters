@@ -2,7 +2,7 @@
 
 # Ringkasan
 
-Pada project ini, data [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) menjadi dasar dalam membangun model sales forecasting menggunakan metode Holt-Winters. Metode ini dipilih karena mampu menangkap tren penjualan serta pola musiman yang terdapat dalam data. Analisis mencakup identifikasi tren jangka panjang, pola musiman, hingga proyeksi penjualan 6 bulan ke depan beserta rekomendasi bisnis yang menyertainya.
+Project ini menggunakan data [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) sebagai dasar dalam membangun model sales forecasting menggunakan metode Holt-Winters. Metode ini dipilih karena mampu menangkap tren penjualan serta pola musiman yang terdapat dalam data. Analisis mencakup identifikasi tren jangka panjang, pola musiman, hingga proyeksi penjualan 6 bulan ke depan beserta rekomendasi bisnis yang menyertainya.
 
 # Pertanyaan Bisnis
 
