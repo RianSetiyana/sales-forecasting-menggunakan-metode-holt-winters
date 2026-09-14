@@ -123,7 +123,7 @@ sns.despine(left=False, top=True, right=True, bottom=False)
 plt.show()
 ```
 
-<\details>
+</details>
 
 ### Hasil
 
@@ -197,7 +197,7 @@ sns.despine(left=False, top=True, right=True, bottom=False)
 plt.show()
 ```
 
-<\details>
+</details>
 
 ### Hasil
 
@@ -272,7 +272,7 @@ sns.despine(left=False, top=True, right=True, bottom=False)
 plt.show()
 ```
 
-<\details>
+</details>
 
 ### Hasil
 
